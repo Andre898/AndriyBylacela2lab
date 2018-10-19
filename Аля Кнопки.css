@@ -1,0 +1,14 @@
+#TableCall, #TableClasses {
+  display: none;
+}
+table{
+  border-radius: 15px;
+}
+th{
+  border-radius: 15px;
+  background-color: blue;
+}
+td{
+  border-radius: 5px;
+  background-color: yellow;
+}
